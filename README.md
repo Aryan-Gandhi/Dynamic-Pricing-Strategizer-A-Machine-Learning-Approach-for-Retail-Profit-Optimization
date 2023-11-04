@@ -4,3 +4,5 @@ The project aims to optimize retail prices to maximize profits for products sold
 
 To run - 
 python app.py
+Then go to 127.0.0.1:5000/ 
+And enter the values. Click on Predict to see the result.
